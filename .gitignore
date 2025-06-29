@@ -9,9 +9,9 @@ remote_data/                  # twój zdalny cache w repo (binary blobs)
 ###############################################################################
 # === MLflow (tracking + artefakty) ===
 ###############################################################################
-mlflow.db                     # baza SQLite z metadanymi
-mlflow-artifacts/             # artefakty runów (modele, html itp.)
-mlruns/                       # gdybyś użył domyślnego katalogu
+mlflow.db                       # baza SQLite z metadanymi
+mlflow-artifacts/               # artefakty runów (modele, html itp.)
+mlruns/                         # gdybyś użył domyślnego katalogu
 
 ###############################################################################
 # === Dane binarne, modele, wyniki ===
